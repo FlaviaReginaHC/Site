@@ -19,4 +19,4 @@ with col2:
 
 st.write("")
 
-st.link_button("🌐 Acessar Site", "https://www.dinaldo.com.br")
+st.link_button("🌐 Acessar Site", "https://sites.google.com/academico.ifpb.edu.br/flaviaregina/in%C3%ADcio")
